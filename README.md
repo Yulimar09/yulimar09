@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ Welcome to my GitHub profile! I'm Yulimar Rivero, a passionate Data Analyst with a background in Network Engineering and a Master's degree in Science. With a keen interest in leveraging data to drive impactful business decisions, I thrive on solving complex problems and turning data into strategic advantages ✨
+✨ Welcome to my GitHub profile! I'm Yulimar Rivero, a passionate Data Scientist with a background in Network Engineering and a Master's degree in Data Science. With a keen interest in leveraging data to drive impactful business decisions, I thrive on solving complex problems and turning data into strategic advantages ✨
 
 #### 🔍 About Me 
 
