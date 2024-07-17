@@ -43,9 +43,9 @@ I have seamlessly transitioned from designing cutting-edge networks for mobile t
 
 #### 🎓 Education
 
-- Master of Science in Data Science, Adelphi University 
+- Master of Science in Business Analytics, Adelphi University 
 
-- Bachelor of Science in Telecommunication Engineering
+- Bachelor of Science in Computer Engineering
 
 - Business Intelligence Analyst Certificate, TripleTen
 
